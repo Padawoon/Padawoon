@@ -25,5 +25,14 @@
 ---
 # ⚙️ Tech Stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/file/d/1vTFvL0VaiHK7GS4Tvm4SC06rFssPLGjz/view?usp=sharing" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://www.flaticon.com/free-icon/http_3165065" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>
 </div>
