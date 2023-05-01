@@ -15,7 +15,7 @@
 </h1>
 
 # :man_technologist: About Me:
-## QA Engineer born in Moscow, now living in Georgia and willing to explore the world 🌎 <a href="file:///C:/Users/dmitr/Downloads/Dmitrii_Khitryi_Resume_01-05-2023-14-42-40.pdf">CV Link</a>
+## QA Engineer born in Moscow, now living in Georgia and willing to explore the world 🌎 <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">CV Link</a>
 - 🛠️ Eating, sleeping, testing software, sometimes resting.
 - 👾 Had a tiny Funko POP! collection before my relocation.
 - ❤️ Completed the "Art of Soft Skills" course and am very proud of myself.
