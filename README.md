@@ -44,3 +44,13 @@
 
 ### 📄 Documentation Examples:
 TBD
+
+### 📚 Courses and Certifications:
+- 01/03/2023 - Present [Pre-Middle QA Manual Testing](https://mentorpiece.education/qa-course/)
+- 01/11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
+- 31/01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
+- 01/12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
+- 30/11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
+
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Padawoon&theme=dark&background=000000)](https://git.io/streak-stats)
