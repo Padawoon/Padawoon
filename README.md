@@ -46,7 +46,7 @@
 TBD
 
 ### 📚 Courses and Certifications:
-- 01/03/2023 - Present [Pre-Middle QA Manual Testing](https://mentorpiece.education/qa-course/)
+- 01/03/2023 - Present [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
 - 01/11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
 - 31/01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
 - 01/12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
