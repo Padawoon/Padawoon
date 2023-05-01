@@ -28,9 +28,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=download&id=1vTFvL0VaiHK7GS4Tvm4SC06rFssPLGjz" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=download&id=1abB-Vd1lF7ZtnnJMBRBitPpoQVVQ1rRV" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=download&id=1JATsShHN0fT5j0MHoe_uft-1jLjuYI28" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/JqQrzAM.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/4ntBYHC.png" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/W2qS64c.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
