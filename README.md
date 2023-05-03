@@ -46,11 +46,11 @@
 ![Header](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📄 Documentation Examples:
-- [Checklists]()
-- [Test-Cases]()
-- [Bug-Reports]()
+- [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
+- [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/15kSg0k5o71SZkw0fNpu_zFPZPT90x5b5?usp=sharing)
 - [SQL Queries](https://github.com/Padawoon/sql_queries/blob/main/queries_examples.md)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/Padawoon/postman_collections/tree/main)
 
 ## 📚 Courses and Certifications:
 - 01/03/2023 - Present [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
