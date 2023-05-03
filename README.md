@@ -47,9 +47,9 @@
 
 ## 📄 Documentation Examples:
 - [Checklists]()
-- [Test-Suites and Test-Cases]()
+- [Test-Cases]()
 - [Bug-Reports]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/Padawoon/sql_queries/blob/main/queries_examples.md)
 - [Postman Collections]()
 
 ## 📚 Courses and Certifications:
