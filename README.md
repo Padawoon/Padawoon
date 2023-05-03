@@ -4,9 +4,11 @@
 <hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khitryi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:dima@khitryi.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:dima@khitryi.com"><img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://t.me/dkhitryi"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://linktr.ee/khitryi"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/></a></br>
+  <a href="https://wa.me/+995598784035"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://discordapp.com/users/230252974511751168"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+  <a href="https://us05web.zoom.us/j/3175838014?pwd=aVBwZWdkdmt5UEhaTGIrWVRsc3NnUT09"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a></br>
   <img src="https://komarev.com/ghpvc/?username=Padawoone&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
@@ -28,19 +30,20 @@
 - 🧑‍🤝‍🧑 Teamwork: check.
 
 # ⚙️ Tech Stack:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://i.imgur.com/JqQrzAM.png" title="HTTP" alt="HTTP" width="60" height="60"/>&nbsp;
-  <img src="https://i.imgur.com/4ntBYHC.png" title="REST API" alt="REST API" width="60" height="60"/>&nbsp;
-  <img src="https://i.imgur.com/W2qS64c.png" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
-  <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA" alt="JIRA" width="60" height="60"/>
-</div>
+![Header](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Header](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Header](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Header](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Header](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Header](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Header](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Header](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Header](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Header](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 📄 Documentation Examples:
 TBD
