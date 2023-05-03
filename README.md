@@ -16,8 +16,8 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gifhttps://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="450px"/>
 </h1>
 
-# :man_technologist: About Me:
-## QA Engineer born in Moscow, now living in Georgia and willing to explore the world 🌎 <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">CV Link</a>
+## :man_technologist: About Me:
+### QA Engineer born in Moscow, now living in Georgia and willing to explore the world 🌎 <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">CV Link</a>
 - 🛠️ Eating, sleeping, testing software, sometimes resting.
 - 👾 Had a tiny Funko POP! collection before my relocation.
 - ❤️ Completed the "Art of Soft Skills" course and am very proud of myself.
@@ -29,7 +29,7 @@
 - 🧑‍🔧 Problem-solving: check.
 - 🧑‍🤝‍🧑 Teamwork: check.
 
-# ⚙️ Tech Stack:
+## ⚙️ Tech Stack:
 ![Header](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Header](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,15 +45,19 @@
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 📄 Documentation Examples:
-TBD
+## 📄 Documentation Examples:
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
 
-### 📚 Courses and Certifications:
+## 📚 Courses and Certifications:
 - 01/03/2023 - Present [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
 - 01/11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
 - 31/01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
 - 01/12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
 - 30/11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
 
-### 🔥 My Stats:
+## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Padawoon&theme=dark&background=000000)](https://git.io/streak-stats)
