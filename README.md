@@ -33,6 +33,7 @@
 ![Header](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Header](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Header](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Header](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Header](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -47,7 +48,7 @@
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Header](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ## 📄 Documentation Examples:
 - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
