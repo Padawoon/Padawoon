@@ -21,7 +21,7 @@
 - 🛠️ Eating, sleeping, testing software, sometimes resting.
 - 👾 Had a tiny Funko POP! collection before my relocation.
 - ❤️ Completed the "Art of Soft Skills" course and am very proud of myself.
-- 🌊 Certified PADI/CMAS Open Water Diver. Had around 300 dives about ten years ago, yet I can brag about it for ten years more.
+- 🌊 Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years ago, yet I can brag about it for ten years more.
 - 💬 Humor sense: check.
 - 🧑‍💼 Discipline: check.
 - 🧑‍🎓 Curiosity: check.
