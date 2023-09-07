@@ -50,6 +50,7 @@
 
 ## 🧑‍💼 Experience:
 07/2023 - present
+
 **QA Engineer,** [base86, inc](http://www.base86.com)
 - Conducting thorough testing of a web application developed by the company.
 - Reviewing and analyzing functional requirements, workflow documents, and test cases for the projects under test.
