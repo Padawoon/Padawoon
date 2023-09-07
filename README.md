@@ -48,6 +48,18 @@
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 🧑‍💼 Experience:
+07/2023 - present
+**QA Engineer,** [base86, inc](http://www.base86.com)
+- Conducting thorough testing of a web application developed by the company.
+- Reviewing and analyzing functional requirements, workflow documents, and test cases for the projects under test.
+- Updating user story requirements to ensure they are understandable, testable, and traceable.
+- Participating in defect review meetings with the QA team members and monitoring defect status.
+- Collaborating closely with Software Developers to isolate, track, and troubleshoot defects.
+- Writing and modifying test cases and test suites, and performing smoke and regression tests.
+- Working closely with the development team to establish testing protocols for new features.
+- Providing detailed bug reports, debugging issues to identify root causes, and proposing improvements for the application.
+
 ## 📄 Documentation Examples:
 - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
