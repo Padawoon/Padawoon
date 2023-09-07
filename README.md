@@ -48,6 +48,18 @@
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 🧑‍💼 Experience:
+07/2023 - present
+**QA Engineer,** [base86, inc](http://www.base86.com)
+- Conducting thorough testing of a web application developed by the company.
+- Reviewing and analyzing functional requirements, workflow documents, and test cases for the projects under test.
+- Updating user story requirements to ensure they are understandable, testable, and traceable.
+- Participating in defect review meetings with the QA team members and monitoring defect status.
+- Collaborating closely with Dev team to isolate, track, and troubleshoot defects.
+- Writing and modifying test cases and test suites, and performing smoke and regression tests.
+- Working closely with the development team to establish testing protocols for new features.
+- Providing detailed bug reports, debugging issues to identify root causes, and proposing improvements for the application.
+
 ## 📄 Documentation Examples:
 - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
@@ -56,11 +68,11 @@
 - [Postman Collections](https://github.com/Padawoon/postman_collections/tree/main)
 
 ## 📚 Courses and Certifications:
-- 01/03/2023 - Present [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
-- 01/11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
-- 31/01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
-- 01/12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
-- 30/11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
+- 03/2023 - 09/2023 [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
+- 11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
+- 01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
+- 12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
+- 11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
 
 ## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Padawoon&theme=dark&background=000000)](https://git.io/streak-stats)
