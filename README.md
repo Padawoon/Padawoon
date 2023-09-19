@@ -68,7 +68,7 @@
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
 - Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
 
-## 📄 Documentation Examples:
+## 📄 Few Artifacts:
 <!-- - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
 - [Bug Reports](https://drive.google.com/drive/folders/15kSg0k5o71SZkw0fNpu_zFPZPT90x5b5?usp=sharing)-->
