@@ -49,18 +49,24 @@
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## 🧑‍💼 Experience:
-07/2023 - present
+04/2023 - 09/2023
 
 
 **QA Engineer,** [base86, inc](http://www.base86.com)
-- Conducting thorough testing of a web application developed by the company.
-- Reviewing and analyzing functional requirements, workflow documents, and test cases for the projects under test.
-- Updating user story requirements to ensure they are understandable, testable, and traceable.
-- Participating in defect review meetings with the QA team members and monitoring defect status.
-- Collaborating closely with Dev team to isolate, track, and troubleshoot defects.
-- Writing and modifying test cases and test suites, and performing smoke and regression tests.
-- Working closely with the development team to establish testing protocols for new features.
-- Providing detailed bug reports, debugging issues to identify root causes, and proposing improvements for the application.
+- Conducted comprehensive testing of company-developed web applications.
+- Reviewed and refined functional requirements, user stories, and test cases.
+- Participated in defect review meetings to monitor and address issues.
+- Collaborated with Software Developers to isolate and troubleshoot defects.
+- Developed and maintained test cases, including smoke and regression tests.
+- Collaborated with the development team to establish testing protocols.
+- Generated detailed bug reports, identified root causes, and proposed application improvements.
+
+**Achievements:**
+- Promoted to Team Lead within a month for exceptional performance, providing leadership to the team.
+- Achieved 100% test coverage for my system segment, ensuring thorough quality assurance.
+- Successfully resolved 20+ critical issues and blockers, preserving release schedules through efficient troubleshooting.
+- Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
+- Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
 
 ## 📄 Documentation Examples:
 - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
