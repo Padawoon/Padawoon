@@ -50,10 +50,8 @@
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## 🧑‍💼 Experience:
-04/2023 - 09/2023
 
-
-**QA Engineer,** [base86, inc](http://www.base86.com)
+03/2023 - 09/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
 - Conducted comprehensive testing of company-developed web applications.
 - Reviewed and refined functional requirements, user stories, and test cases.
 - Participated in defect review meetings to monitor and address issues.
@@ -62,12 +60,19 @@
 - Collaborated with the development team to establish testing protocols.
 - Generated detailed bug reports, identified root causes, and proposed application improvements.
 
-**Achievements:**
+*Achievements:*
 - Promoted to Team Lead within a month for exceptional performance, providing leadership to the team.
 - Achieved 100% test coverage for my system segment, ensuring thorough quality assurance.
 - Successfully resolved 20+ critical issues and blockers, preserving release schedules through efficient troubleshooting.
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
 - Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
+
+
+06/2021 - 06/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
+- Actively contributed to the development and testing of the online store, shop.hansa.ru.
+- Conducted comprehensive exploratory and ad hoc testing of the user interface.
+- Assessed and evaluated content and layout for quality assurance.
+- Pioneered the creation of a basic rich content concept for Hansa, which is still used across all sales channels.
 
 ## 📄 Few Artifacts:
 <!-- - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
