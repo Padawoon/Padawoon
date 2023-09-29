@@ -17,8 +17,7 @@
 </h1>
 
 ## :man_technologist: About Me:
-### QA Engineer born in Moscow, now living in Georgia and willing to explore the world 🌎
-#### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
+
 - 🛠️ Eating, sleeping, testing software, sometimes resting.
 - 👾 Had a tiny Funko POP! collection before my relocation.
 - ❤️ Completed the "Art of Soft Skills" course and am very proud of myself.
@@ -30,7 +29,10 @@
 - 🧑‍🔧 Problem-solving: check.
 - 🧑‍🤝‍🧑 Teamwork: check.
 
+### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
+
 ## ⚙️ Tech Stack:
+
 ![Header](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Header](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -52,6 +54,7 @@
 ## 🧑‍💼 Experience:
 
 03/2023 - 09/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
+
 - Conducted comprehensive testing of company-developed web applications.
 - Reviewed and refined functional requirements, user stories, and test cases.
 - Participated in defect review meetings to monitor and address issues.
@@ -60,28 +63,32 @@
 - Collaborated with the development team to establish testing protocols.
 - Generated detailed bug reports, identified root causes, and proposed application improvements.
 
-*Achievements:*
+_Achievements:_
+
 - Promoted to Team Lead within a month for exceptional performance, providing leadership to the team.
 - Achieved 100% test coverage for my system segment, ensuring thorough quality assurance.
 - Successfully resolved 20+ critical issues and blockers, preserving release schedules through efficient troubleshooting.
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
 - Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
 
-
 06/2021 - 06/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
+
 - Actively contributed to the development and testing of the online store, shop.hansa.ru.
 - Conducted comprehensive exploratory and ad hoc testing of the user interface.
 - Assessed and evaluated content and layout for quality assurance.
 - Pioneered the creation of a basic rich content concept for Hansa, which is still used across all sales channels.
 
 ## 📄 Few Artifacts:
+
 <!-- - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
 - [Bug Reports](https://drive.google.com/drive/folders/15kSg0k5o71SZkw0fNpu_zFPZPT90x5b5?usp=sharing)-->
+
 - [SQL Queries](https://github.com/Padawoon/sql_queries/blob/main/queries_examples.md)
 - [Postman Collections](https://github.com/Padawoon/postman_collections/tree/main)
 
 ## 📚 Courses and Certifications:
+
 - 03/2023 - 09/2023 [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
 - 11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
 - 01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
@@ -89,4 +96,5 @@
 - 11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
 
 ## 🔥 My Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Padawoon&theme=dark&background=000000)](https://git.io/streak-stats)
