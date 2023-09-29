@@ -71,7 +71,7 @@ _Achievements:_
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
 - Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
 
-06/2021 - 06/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
+01/2022 - 06/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
 
 - Actively contributed to the development and testing of the online store, shop.hansa.ru.
 - Conducted comprehensive exploratory and ad hoc testing of the user interface.
