@@ -89,7 +89,7 @@ _Achievements:_
 
 ## 📚 Courses and Certifications:
 
-- 03/2023 - 09/2023 [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
+- 08/2023 [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/qa-course/)
 - 11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
 - 01/2023 [SQL for everyone](https://stepik.org/cert/1931838)
 - 12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
