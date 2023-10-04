@@ -19,15 +19,8 @@
 ## :man_technologist: About Me:
 
 Eating, sleeping, testing software, sometimes resting.
-Had a tiny Funko POP! collection before my relocation.
-Completed the "Art of Soft Skills" course and am very proud of myself.
 Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years ago, yet I can brag about it for ten years more.
-Humor sense: check.
-Discipline: check.
-Curiosity: check.
-Attention to details: check.
-Problem-solving: check.
-Teamwork: check.
+Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Problem-solving: ✅. Teamwork: ✅.
 
 ### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
 
