@@ -53,7 +53,7 @@ Teamwork: check.
 
 ## 💼 Experience:
 
-03/2023 - 09/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
+04/2023 - 10/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
 
 - Conducted comprehensive testing of company-developed web applications.
 - Reviewed and refined functional requirements, user stories, and test cases.
