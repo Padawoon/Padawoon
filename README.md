@@ -12,9 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=Padawoone&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450px"/>
-</h1>
+
+<p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450px"/></p>
 
 ## :man_technologist: About Me:
 
