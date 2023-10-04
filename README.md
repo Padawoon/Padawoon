@@ -13,7 +13,7 @@
 </div>
 <hr>
 <h1 align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gifhttps://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="450px"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450px"/>
 </h1>
 
 ## :man_technologist: About Me:
