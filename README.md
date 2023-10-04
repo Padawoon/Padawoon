@@ -18,16 +18,16 @@
 
 ## :man_technologist: About Me:
 
-- 🛠️ Eating, sleeping, testing software, sometimes resting.
-- 👾 Had a tiny Funko POP! collection before my relocation.
-- ❤️ Completed the "Art of Soft Skills" course and am very proud of myself.
-- 🌊 Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years ago, yet I can brag about it for ten years more.
-- 💬 Humor sense: check.
-- 🧑‍💼 Discipline: check.
-- 🧑‍🎓 Curiosity: check.
-- 🧑‍🔬 Attention to details: check.
-- 🧑‍🔧 Problem-solving: check.
-- 🧑‍🤝‍🧑 Teamwork: check.
+Eating, sleeping, testing software, sometimes resting.
+Had a tiny Funko POP! collection before my relocation.
+Completed the "Art of Soft Skills" course and am very proud of myself.
+Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years ago, yet I can brag about it for ten years more.
+Humor sense: check.
+Discipline: check.
+Curiosity: check.
+Attention to details: check.
+Problem-solving: check.
+Teamwork: check.
 
 ### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
 
@@ -51,7 +51,7 @@
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 🧑‍💼 Experience:
+## 💼 Experience:
 
 03/2023 - 09/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
 
