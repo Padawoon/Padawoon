@@ -95,6 +95,7 @@ _Achievements:_
 - 12/2022 [Art of Soft Skills](https://stepik.org/cert/1810397)
 - 11/2022 [JIRA: Task Management](https://stepik.org/cert/1805912)
 
-## 🔥 My Stats:
+<!-- ## 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Padawoon&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
