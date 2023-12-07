@@ -47,9 +47,17 @@ Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Pr
 
 ## 💼 Experience:
 
+10/2023 - present **QA Engineer,** [101 Internet](http://101internet.ru)
+
+- Manual Smoke, Regression, E2E testing
+- Writing and maintaining Test Cases in Qase
+- Managing Qase TMS
+- Close communication with Dev Team
+- Bug resolving and troubleshooting
+
 04/2023 - 10/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
 
-- Conducted comprehensive testing of company-developed web applications.
+- Conducted comprehensive testing of company-developed web application.
 - Reviewed and refined functional requirements, user stories, and test cases.
 - Participated in defect review meetings to monitor and address issues.
 - Collaborated with Software Developers to isolate and troubleshoot defects.
