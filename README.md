@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450px"/></p>
 
-## :man_technologist: About Me:
+## 📄 About Me:
 
 Eating, sleeping, testing software, sometimes resting.
 
