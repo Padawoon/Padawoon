@@ -67,7 +67,6 @@ Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Pr
 
 _Achievements:_
 
-- Promoted to Team Lead within a month for exceptional performance, providing leadership to the team.
 - Achieved 100% test coverage for my system segment, ensuring thorough quality assurance.
 - Successfully resolved 20+ critical issues and blockers, preserving release schedules through efficient troubleshooting.
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
