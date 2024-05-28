@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450px"/></p>
 
-## 📄 About Me:
+## 📄 About Me
 
 Eating, sleeping, testing software, sometimes resting.
 
@@ -25,7 +25,7 @@ Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Pr
 
 ### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
 
-## ⚙️ Tech Stack:
+## ⚙️ Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +45,7 @@ Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Pr
 ![Header](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Header](https://img.shields.io/badge/WIreshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 💼 Experience:
+## 💼 Experience
 
 10/2023 - present **QA Engineer,** [101 Internet](http://101internet.ru)
 
@@ -79,7 +79,7 @@ _Achievements:_
 - Assessed and evaluated content and layout for quality assurance.
 - Pioneered the creation of a basic rich content concept for Hansa, which is still used across all sales channels.
 
-## 📄 Few Artifacts:
+## 📄 Few Artifacts
 
 <!-- - [Checklists](https://drive.google.com/drive/folders/1xj7FeosfJ6nR-XAcxqx_0597gfUmcIDu?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1jlF1q2q_j2vwjhcGbeQOVtu-Euayt1E6?usp=sharing)
@@ -88,7 +88,7 @@ _Achievements:_
 - [SQL Queries](https://github.com/Padawoon/sql_queries/blob/main/queries_examples.md)
 - [Postman Collections](https://github.com/Padawoon/postman_collections/tree/main)
 
-## 📚 Courses and Certifications:
+## 📚 Courses and Certifications
 
 - 08/2023 [Pre-Middle QA Manual Testing @ Mentorpiece School](https://mentorpiece.education/wp-content/uploads/2023/10/Khitryi-1.pdf)
 - 11/2022 [Manual QA From Scratch](https://stepik.org/cert/1746469)
