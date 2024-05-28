@@ -21,7 +21,7 @@ Eating, sleeping, testing software, sometimes resting.
 
 Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years ago, yet I can brag about it for ten years more.
 
-Humor sense: ✅. Discipline: ✅. Curiosity: ✅. Attention to details: ✅. Problem-solving: ✅. Teamwork: ✅.
+Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solving✅ Teamwork✅
 
 ### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
 
