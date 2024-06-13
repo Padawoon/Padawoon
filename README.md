@@ -55,8 +55,7 @@ Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solvin
 - Manual Smoke, Regression, E2E testing
 - Writing and maintaining Test Cases in Qase
 - Managing Qase TMS
-- Close communication with Dev Team
-- Bug resolving and troubleshooting
+- Bugs resolving and troubleshooting
 
 04/2023 - 10/2023 **QA Engineer,** [base86, inc](http://www.base86.com)
 
