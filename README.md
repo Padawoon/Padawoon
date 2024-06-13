@@ -52,7 +52,7 @@ Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solvin
 
 10/2023 - present **QA Engineer,** [101 Internet](http://101internet.ru)
 
-- Manual Smoke, Regression, E2E testing
+- Smoke, Regression, E2E, UAT (on a business side)
 - Writing and maintaining Test Cases in Qase
 - Managing Qase TMS
 - Bugs resolving and troubleshooting
