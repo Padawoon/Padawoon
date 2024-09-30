@@ -23,8 +23,6 @@ Certified PADI/CMAS Open Water Diver. Had a couple hundred dives about ten years
 
 Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solving✅ Teamwork✅
 
-### <a href="https://drive.google.com/file/d/1L8T6qJx41WF2T_Faz9OOyoJJYXk1KDyD/view?usp=sharing">Click here for CV</a>
-
 ## ⚙️ Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
