@@ -50,7 +50,7 @@ Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solvin
 
 ## 💼 Experience
 
-10/2023 - present **QA Engineer,** [101 Internet](http://101internet.ru)
+10/2023 - 08/2024 **QA Engineer,** [101 Internet](http://101internet.ru)
 
 - Smoke, Regression, E2E, UAT (on a business side)
 - Writing and maintaining Test Cases in Qase
