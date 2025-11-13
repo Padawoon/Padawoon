@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/khitryi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:dima@khitryi.com"><img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://t.me/dkhitryi"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://wa.me/+995598784035"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <!--<a href="https://wa.me/+995598784035"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>-->
   <a href="https://discordapp.com/users/230252974511751168"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
   <a href="https://us05web.zoom.us/j/3175838014?pwd=aVBwZWdkdmt5UEhaTGIrWVRsc3NnUT09"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a></br>
   <img src="https://komarev.com/ghpvc/?username=Padawoone&style=flat-square&color=blue" alt=""/>
