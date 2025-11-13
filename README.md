@@ -52,7 +52,7 @@ Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solvin
 
 Main responsibilities:
 - Design and execution of functional, integration, and regression testing of microservices in three stages across dev1/2/3, stage, and prod environments.
-- Testing service interactions via REST API and RabbitMQ.
+- Testing services interactions via REST API and RabbitMQ.
 - Analysis of database schemas, complex relations, and business logic at the data level.
 - Writing SQL queries (PostgreSQL/MySQL): aggregations, joins, nested queries.
 - Validation of migrations, seed data, and data integrity.
@@ -107,7 +107,7 @@ _Achievements:_
 - Maintained a bug-free record for six consecutive sprints, demonstrating a commitment to top-notch software delivery.
 - Played a key role in team growth by onboarding and mentoring five QA interns, enhancing their skills and team productivity.
 
-06/2021 - 07/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
+10/2021 - 07/2022 **Software Tester,** [Hansa](https://shop.hansa.ru/)
 
 - Actively contributed to the development and testing of the online store, shop.hansa.ru.
 - Conducted comprehensive exploratory and ad hoc testing of the user interface.
