@@ -48,6 +48,41 @@ Humor sense✅ Discipline✅ Curiosity✅ Attention to details✅ Problem-solvin
 
 ## 💼 Experience
 
+01/2025 - now **QA Engineer,** [Web-studio Regul](http://webregul.ru/)
+
+Main responsibilities:
+- Design and execution of functional, integration, and regression testing of microservices in three stages across dev1/2/3, stage, and prod environments.
+- Testing service interactions via REST API and RabbitMQ.
+- Analysis of database schemas, complex relations, and business logic at the data level.
+- Writing SQL queries (PostgreSQL/MySQL): aggregations, joins, nested queries.
+- Validation of migrations, seed data, and data integrity.
+
+Git:
+- Launching pipelines with required branches for deployment to test and stage environments (backend and frontend of the web application).
+- Checking out required branches in Git through Android Studio to test MacOS, iOS, and Android applications on both emulators and physical devices.
+
+Billing and calculation verification:
+- Validation of the pricing model and token based cost calculation: USER and ASSISTANT requests, USD conversions, internal platform tokens, discounts, bonuses, tariff packages, overuse, and more.
+- Analysis of RabbitMQ events (mostly billing and payments), creation and validation of test scenarios for invoice generation.
+
+Communication and cross team interaction:
+- Close collaboration with developers, analysts, product manager, tech lead, architect, and DevOps.
+- Participation in meetings, contribution to feature requirements and improvements.
+- Onboarding new QA engineers, mentoring, and supporting the team.
+
+Documentation and processes:
+- Creation and maintenance of QA artifacts: test scenarios, checklists, guidelines, and incident handling instructions.
+
+Additional role: L3 support
+- Incident localization: analysis of logs, databases, user screencasts, and correlation of business processes with actual requests.
+- Preparation of reports, description of root causes (RCA), and work within a three line support model.
+- Verification of conclusions and localization results from QA engineers on previous stages.
+
+_Recent achievements:_
+1. Single handedly completed the full testing cycle of a large release containing eight full scale stories with changes across multiple services, migrations, billing, numerous new routes, and reworked legacy ones. Not a single defect made it to production.
+2. Led a two week cycle of daily interviews that resulted in the company hiring strong specialists who were able to quickly onboard and start testing. Their onboarding was also entrusted to me.
+3. Based on a highly successful year, my grade was raised to Senior, with the position of Senior Specialist in Server Logic and Database Testing.
+
 10/2023 - 08/2024 **QA Engineer,** [101 Internet](http://101internet.ru)
 
 - Smoke, Regression, E2E, UAT (on a business side)
